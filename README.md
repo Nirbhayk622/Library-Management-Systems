@@ -1,6 +1,4 @@
 # Library-Management-Systems
-📚 Library-Management-System
-
 A simple Java-based Library Management System built using Object-Oriented Programming (OOP) concepts.
 This project demonstrates fundamental Java principles such as Encapsulation, Abstraction, and Collections, implemented in a console-based environment.
 Developed using Notepad and Command Prompt, and uploaded to GitHub to showcase strong Java coding skills without IDE dependency.
@@ -90,17 +88,17 @@ Follow the on-screen menu to add, delete, or search books in the library.
 
 🧠 Concepts Used
 
-✅ Object-Oriented Programming (OOP)
+> Object-Oriented Programming (OOP)
 
-✅ Encapsulation & Abstraction
+> Encapsulation & Abstraction
 
-✅ ArrayList (Java Collections)
+> ArrayList (Java Collections)
 
-✅ User Input Handling (Scanner class)
+> User Input Handling (Scanner class)
 
-✅ Control Flow (if-else, switch, loops)
+> Control Flow (if-else, switch, loops)
 
-✅ Modular Code Design
+> Modular Code Design
 
 🛠️ Technologies
 Component	Technology Used

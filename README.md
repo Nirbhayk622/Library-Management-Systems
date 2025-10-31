@@ -12,3 +12,9 @@ A simple Java-based Library Management System using Object-Oriented Programming 
 1. Clone or download the repository
 2. Open terminal/command prompt in the project folder
 3. Compile all Java files:
+   
+## 📂 Project Structure
+- Book.java
+- Library.java
+- Main.java
+- User.java
